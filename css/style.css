@@ -545,7 +545,8 @@ body {
   .footer__copyright {
     border-top: 1px solid #eee;
     padding-top: 2rem;
-    width: 80%; }
+    width: 80%;
+    float: right; }
 
 .section-about {
   background-color: #f7f7f7;
